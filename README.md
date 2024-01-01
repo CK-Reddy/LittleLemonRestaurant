@@ -4,9 +4,12 @@ Little Lemon Restaurant, a family run Mediterranean restaurant located in Chicag
 
 ## Quick Start
 $ git clone https://github.com/CK-Reddy/LittleLemonRestaurant.git
+
 $ cd LittleLemonRestaurant
+
 $ npm install
 
 ## Launch the Website
 Use the following command to run the app in your localhost.
+
 npm start
